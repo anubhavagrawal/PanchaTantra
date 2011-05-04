@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChalChetraFreekFramework", "ChalChetraFreek\ChalChetraFreekFramework.csproj", "{8684A025-DB92-437D-94D4-8188830FF621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChalChetraFreekFrameworkTest", "ChalChetraFreekFrameworkTest\ChalChetraFreekFrameworkTest.csproj", "{A936B97A-2E26-4D65-83DD-20EC6A40A043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8684A025-DB92-437D-94D4-8188830FF621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8684A025-DB92-437D-94D4-8188830FF621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8684A025-DB92-437D-94D4-8188830FF621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8684A025-DB92-437D-94D4-8188830FF621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A936B97A-2E26-4D65-83DD-20EC6A40A043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A936B97A-2E26-4D65-83DD-20EC6A40A043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A936B97A-2E26-4D65-83DD-20EC6A40A043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A936B97A-2E26-4D65-83DD-20EC6A40A043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
